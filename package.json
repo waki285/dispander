@@ -1,0 +1,12 @@
+{
+  "name": "dispander",
+  "version": "1.0.0",
+  "description": "Discord URL expander",
+  "keywords": ["discord", "discord-url"],
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waki285/dispander"
+  }
+}
